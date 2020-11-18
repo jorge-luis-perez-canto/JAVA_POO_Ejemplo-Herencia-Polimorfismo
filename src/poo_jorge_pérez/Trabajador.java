@@ -6,7 +6,7 @@ package poo_jorge_pérez;
 import java.util.Date;
 /**
  * 
- * @author Jorge Luis Pérez Canto <george.jlpc@gmail.com>
+ * @author Jorge Pérez <george.jlpc@gmail.com>
  */
 public class Trabajador {
     

@@ -6,7 +6,7 @@ package poo_jorge_pérez;
 
 /**
  * 
- * @author Jorge Luis Pérez Canto <george.jlpc@gmail.com>
+ * @author Jorge Pérez <george.jlpc@gmail.com>
  */
 public class Empleado extends Trabajador {
     private double sueldo;
