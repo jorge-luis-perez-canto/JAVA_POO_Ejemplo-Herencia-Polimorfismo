@@ -2,15 +2,18 @@ Universidad de San Carlos de Guatemala – USAC
 
 Escuela de Formación de Profesores de Enseñanza Media - EFPEM
 
-Cátedra de Computación e Informática - CCI
-
 Licenciatura en la Enseñanza de la Informática y Computación
 
-Curso: Didáctica de la programación
+Didáctica de la programación
 
-### PRACTICA BÁSICA DE PHP, GIT y GITHUB
+Jorge Luis Pérez Canto
 
 
-Carnet: 201024865
+### Ejemplo de POO en Java
+Ejemplo de Programación Orientada a Objetos en Java, utilizando la Herencia y el Polimorfismo.
 
-Nombre: Jorge Luis Pérez Canto
+### Explicación (Videotutorial)
+https://www.youtube.com/watch?v=qYEg5VOdMqM
+
+
+Contacto: profe.jorge.perez@gmail.com
